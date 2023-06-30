@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Gradient Bg for Button Start -->
+    <size
+        android:width="270dp"
+        android:height="60dp" />
+    <gradient
+        android:angle="90"
+        android:endColor="#19DFB7"
+        android:startColor="#20D6B2"
+        android:type="linear" />
+
+    <corners android:radius="15dp" />
+
+    <stroke
+        android:width="1dp"
+        android:color="#141515" />
+
+</shape>
